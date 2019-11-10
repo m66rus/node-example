@@ -1,0 +1,23 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m66rus/node-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m66rus/node-example/issues"
+  },
+  "homepage": "https://github.com/m66rus/node-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
